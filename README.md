@@ -1,7 +1,3 @@
-<p align="center">
-<img width="35%" src="https://imgur.com/UF7jB9w.png">
-<br>
-
 
 <h1 align="center">☕ Crunkz ☕</h1>
 
