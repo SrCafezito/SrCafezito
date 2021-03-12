@@ -10,7 +10,7 @@ js Eyyoo! Addicted to learning code, with friends :).
 - 💎 Making youtube videos.
 - 📣 Projects maintained by me: cafezito and nasko
 
-### Idiomas e ferramentas:
+### Languages ​​and tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
