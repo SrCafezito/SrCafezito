@@ -6,9 +6,9 @@
 <Quick Introduction>
 js Eyyoo! Addicted to learning code, with friends :).
 
-- 🌱  Atualmente, estou aprendendo tudo 🤣
-- 💎  Fazendo vídeos do youtube.
-- 📣  Projetos mantidos por mim: cafezito e nasko
+- 🌱 Currently, I'm learning everything 🤣
+- 💎 Making youtube videos.
+- 📣 Projects maintained by me: cafezito and nasko
 
 ### Idiomas e ferramentas:
 
@@ -24,7 +24,7 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 
 ---
 
-### 📺 Vídeos mais recentes do Youtube
+### 📺 Latest Youtube Videos
 
 
 - [#1 The beginning | coming soon)
@@ -39,8 +39,6 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srcafezito&show_icons=true&locale=en&layout=compact" alt="srcafezito" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srcafezito&show_icons=true&locale=en" alt="srcafezito" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=SrCafezito&show_icons=true&theme=tokyonight&locale=en" alt="srcafezito" /></p>
 
 
