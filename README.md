@@ -1,5 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Crunkz</h1>
+<h3 align="center">Developer in javascript, Owner CoffeerBot. Também sei falar em português!</h3>
+
+<p align="left"> <a href="https://twitter.com/SrCafezito" target="blank"><img src="https://img.shields.io/twitter/follow/SrCafezito?logo=twitter&style=for-the-badge" alt="SrCafezito" /></a> </p>
 
 
 
